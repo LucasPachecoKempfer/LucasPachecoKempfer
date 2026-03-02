@@ -74,14 +74,5 @@ Atualmente, estudo **Spring Boot** e desenvolvo projetos pessoais com **Java**, 
 
 ---
 
-### 💬 Minha visão
-
-> “O bom código não é apenas funcional — ele é claro, coerente e sustentável.”  
-
-Busco desenvolver sistemas que vão além da funcionalidade:  
-soluções que sejam **inteligentes, bem estruturadas e manteníveis** a longo prazo.
-
----
-
 ⭐ **Obrigado por visitar meu perfil!**  
 Sinta-se à vontade para entrar em contato ou acompanhar meus projetos.
