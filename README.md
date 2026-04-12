@@ -48,11 +48,11 @@ Atualmente, estudo **Spring Boot** e desenvolvo projetos pessoais com **Java**, 
 <p align="center">
   <img 
     height="165em" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasPachecoKempfer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasPachecoKempfer&show_icons=true&theme=tokyonight"
   />
   <img 
     height="165em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPachecoKempfer&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasPachecoKempfer&layout=compact&theme=tokyonight"
   />
 </p>
 
