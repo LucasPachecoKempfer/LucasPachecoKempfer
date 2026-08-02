@@ -1,78 +1,53 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Pacheco Kempfer</h1>
+```md
+<h1 align="center">Lucas Pacheco Kempfer</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend e Full Stack em formação | Estudante de ADS no IFSC São José</strong>
+  Desenvolvedor Backend em formação • Java • Spring Boot • APIs REST
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## Sobre
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Santa Catarina – Campus São José**.  
-Tenho foco em **desenvolvimento backend** e **full stack**, com interesse em criar soluções bem estruturadas, seguras e escaláveis.  
+Estudante de Análise e Desenvolvimento de Sistemas no IFSC São José.
 
-Atualmente, estudo **Spring Boot** e desenvolvo projetos pessoais com **Java**, aplicando boas práticas de **POO**, **arquitetura de software** e **integração de APIs**.
-
----
-
-### 🧠 O que estou aprendendo
-
-- Desenvolvimento backend com **Spring Boot**  
-- Integração de **APIs RESTful**  
-- **Autenticação e segurança** com Spring Security  
-- Boas práticas de **arquitetura e clean code**  
-- **Bancos de dados relacionais** (MySQL)
+Tenho foco em desenvolvimento backend utilizando Java e Spring Boot, criando APIs REST e aplicando conceitos de orientação a objetos, arquitetura de software e boas práticas de desenvolvimento.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Tecnologias
 
 <p align="center">
-  <!-- Linguagens e frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Estatísticas
 
 <p align="center">
-  <img 
-    height="165em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasPachecoKempfer&show_icons=true&theme=tokyonight"
-  />
-  <img 
-    height="165em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasPachecoKempfer&layout=compact&theme=tokyonight"
-  />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasPachecoKempfer&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPachecoKempfer&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:lpachecokempfer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/LucasPachecoKempfer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lucas-pacheco-kempfer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/lucas-pacheco-kempfer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-⭐ **Obrigado por visitar meu perfil!**  
-Sinta-se à vontade para entrar em contato ou acompanhar meus projetos.
+```
