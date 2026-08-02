@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Lucas Pacheco Kempfer</h1>
 
 <p align="center">
@@ -50,4 +49,4 @@ Tenho foco em desenvolvimento backend utilizando Java e Spring Boot, criando API
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-```
+
